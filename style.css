@@ -9,8 +9,8 @@ form {
     margin: 0 auto; 
     width: 600px;
     text-align: center;
-    border: 1px Solid black;
-    background-color: aliceblue;
+    border: 2px Solid rgba(155, 1, 152, 0.837);
+    background-color: rgb(235, 82, 255);
 }
 
 form>p{

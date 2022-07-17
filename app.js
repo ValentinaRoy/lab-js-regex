@@ -13,7 +13,7 @@ var erremail=document.getElementById("email");
 var errphone=document.getElementById("phone");
 var erraddress=document.getElementById("address");
 var errpwd=document.getElementById("pwd");
-var errcpwd=document.getElementById("cpwd")
+var errcpwd=document.getElementById("cpwd") 
 
 
 let patternName= /.{8,15}/
